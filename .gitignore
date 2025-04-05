@@ -1,0 +1,6 @@
+# Vitepress generated files
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Node modules
+node_modules/
